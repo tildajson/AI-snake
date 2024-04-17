@@ -21,7 +21,7 @@ After 150 games, the AI had a highscore of 78 points and mean score of 14.9.
 
 ![Graph](https://github.com/tildajson/AI-snake/assets/130234732/878e268e-588a-405b-9779-d5898dc6f832)
 
-## Settings
+## NN Settings
 
 | Parameter        |      Value      |
 |------------------|:---------------:|
